@@ -22,7 +22,7 @@ The `Broken-Breaker.ahk` script offers the following features:
 
 ## Installation
 
-Before installation, ensure that AutoHotkey is installed on your computer.
+Before installation, ensure that AutoHotkey is installed on your computer. You can download it from [AutoHotkey's official website](https://www.autohotkey.com/).
 1. Copy the `Broken-Breaker.ahk` and `beta-cordinates.ahk` files to your chosen folder.
 2. Run the `Broken-Breaker.ahk` script by double-clicking the file.
 
